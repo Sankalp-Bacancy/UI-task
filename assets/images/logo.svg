@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53 35" width="53" height="35">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-59 -23L1861 -23L1861 1057L-59 1057Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M0 0L52 0L52 34L0 34L0 0Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #00285c } 
+	</style>
+	<g id="UI Practical" clip-path="url(#cp1)">
+		<g id="Header">
+			<g id="a" clip-path="url(#cp2)">
+				<path id="Path 1" fill-rule="evenodd" class="shp0" d="M41.93 12.83C47.77 13.04 52.34 17.95 52.13 23.8C51.92 29.64 47.01 34.21 41.17 34L13 34C6.14 34.14 0.41 28.82 0.03 21.97C-0.35 15.13 4.76 9.21 11.59 8.58C14.83 2.57 21.47 -0.79 28.24 0.16C35 1.11 40.46 6.16 41.93 12.83L41.93 12.83ZM41.17 29.75C44.72 29.77 47.62 26.92 47.67 23.37C47.62 20.02 44.99 17.27 41.64 17.08L38.33 16.85L37.68 13.66C36.61 8.77 32.61 5.06 27.65 4.36C22.68 3.67 17.82 6.15 15.45 10.56L14.37 12.58L12.05 12.81C7.49 13.22 4.08 17.17 4.33 21.74C4.59 26.31 8.42 29.85 13 29.75L41.17 29.75L41.17 29.75ZM26 10.62L34.67 19.12L29.14 19.12L29.14 25.5L22.86 25.5L22.86 19.12L17.33 19.12L26 10.62Z" />
+			</g>
+		</g>
+	</g>
+</svg>
